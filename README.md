@@ -11,3 +11,9 @@ Goal: Recovering information and learning new things
 - Set up SSH key for GitHub
 - Created Development folder structure
 - Initialized this learning-log repo
+### Day 2
+- Created first virtual enviroment using venv
+- Installed core ML stack: Numpy, Pandas, scikit-learn, Matplotlib, Jupyter, PyTorch
+- Set up .gitignore tamplate for Python projects
+Verified enviroment with sanity-check notebook
+Learned: venv basics, why we never commit venv/, requirements.txt workflow
