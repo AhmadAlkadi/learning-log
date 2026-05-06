@@ -2,7 +2,7 @@
 Started: May 5, 2026
 Goal: Recovering information and learning new things
 
-## week 1 - Enviroment Setup + GitHub Hygiene
+## week 1 - Environment Setup + GitHub Hygiene
 
 ### Day 1
 - Installed Python 3.13.13
@@ -12,8 +12,8 @@ Goal: Recovering information and learning new things
 - Created Development folder structure
 - Initialized this learning-log repo
 ### Day 2
-- Created first virtual enviroment using venv
+- Created first virtual environment using venv
 - Installed core ML stack: Numpy, Pandas, scikit-learn, Matplotlib, Jupyter, PyTorch
 - Set up .gitignore tamplate for Python projects
-Verified enviroment with sanity-check notebook
+- Verified environment with sanity-check notebook
 Learned: venv basics, why we never commit venv/, requirements.txt workflow
