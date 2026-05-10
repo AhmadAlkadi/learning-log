@@ -16,7 +16,8 @@ Goal: Recovering information and learning new things
 - Installed core ML stack: Numpy, Pandas, scikit-learn, Matplotlib, Jupyter, PyTorch
 - Set up .gitignore tamplate for Python projects
 - Verified environment with sanity-check notebook
-Learned: venv basics, why we never commit venv/, requirements.txt workflow### Day 3
+Learned: venv basics, why we never commit venv/, requirements.txt workflow
+### Day 3
 - Read Pro Git  Chapters 1-3 (Git Basics, Branching)
 - Practiced branching workflow: feature branches, mering, deleting
 - Practiced undoing changes: restore, restore --staged, commit --amend
