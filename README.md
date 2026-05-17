@@ -24,3 +24,12 @@ Learned: venv basics, why we never commit venv/, requirements.txt workflow
 - Created personal git-cheatsheet.md
 - Set up Git aliases (st, co, br, lg)
 - Fixed Git author emial to use personal account
+
+### Day 4 ( Friday, May 8, 2026)
+- NumPy fundamentals: array creation, indexing, slicing
+- Vectorization: ~100x speedup over Python loops
+- Broadcasting rules and practical examples
+- Axis operations (axis=0 collapses rows, axis=1 collapses cols)
+- Reshaping and transposing
+- Solved 5 mini-exercises (pairwise distance was the trickiest)
+- First featrue- branch + PR + merge workflow on personal repo
