@@ -42,3 +42,8 @@ Learned: venv basics, why we never commit venv/, requirements.txt workflow
 - GroupBy + agg for SQL-like aggregations
 - Adding derived columns with np.where, np.select, .apply, .str.extract
 - worked Titanic dataset for first time
+
+### Day 6
+- Created Github profile README (special username/username repo)
+- Pinned 6 best repos to profile
+- Added profile bio, location, links
