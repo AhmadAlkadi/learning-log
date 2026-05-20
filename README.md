@@ -33,3 +33,12 @@ Learned: venv basics, why we never commit venv/, requirements.txt workflow
 - Reshaping and transposing
 - Solved 5 mini-exercises (pairwise distance was the trickiest)
 - First featrue- branch + PR + merge workflow on personal repo
+
+### Day 5
+- Pandas Series and DataFrame funamentals
+- Reading CSVs, .info(), .describe(), .head()
+- Selection: column access, iloc, loc, boolean filtering
+- Handling missing data: dropna, fillna with median/mode
+- GroupBy + agg for SQL-like aggregations
+- Adding derived columns with np.where, np.select, .apply, .str.extract
+- worked Titanic dataset for first time
